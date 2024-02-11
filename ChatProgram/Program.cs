@@ -13,8 +13,8 @@
             chat1.AddUser(user1);
             chat1.AddUser(user2);
 
-            user1.SendMessage("Salut. TU - VAS - BIEEEN ???? (les Inconnus dans Auteil Neuilly Passy");
-            user2.SendMessage("Fine, To much! Et toi??? TU - VAS - BIEEEN ???? (Idem ;-))");
+            user1.SendMessage("  Salut. TU - VAS - BIEEEN ???? (les Inconnus dans Auteil Neuilly Passy)");
+            user2.SendMessage("  Fine, To much! Et toi??? TU - VAS - BIEEEN ???? (Idem ;-))");
 
             Console.ReadLine();
 
